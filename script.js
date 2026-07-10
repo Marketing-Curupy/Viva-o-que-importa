@@ -4,7 +4,7 @@
 */
 
 const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbyKSbNAQgW9xVfZvrZ4WXXuIK0QENG3YEyOZ1ZWm-UVmQR74q6KqQm1SpnOfHaTbON2kg/exec";
+  "https://script.google.com/macros/s/AKfycbyrgL0nYMNusqP_s45zqxOUPcVXPUvRZmr4q1MyYOxred-YXR48MZs3gh-yWsC-q7JpSg/exec";
 
 
 const intro =
